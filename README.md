@@ -1,1 +1,1 @@
-# Seneca_Machine_Learning_Projects
+# Machine Learning Projects - At Seneca College
