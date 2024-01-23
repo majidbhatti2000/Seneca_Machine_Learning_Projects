@@ -1,1 +1,1 @@
-# Machine Learning Projects - At Seneca College
+# Machine Learning Capstone Projects - At Seneca College
